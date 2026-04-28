@@ -1,6 +1,6 @@
 
 ## 📌 Project Overview
-This project predicts age and gender using machine learning.
+This project predicts age,emotion,nationality,colour and gender using machine learning.
 
 ## 📊 Dataset
 Dataset from Kaggle:
